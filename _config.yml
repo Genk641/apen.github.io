@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Pan Wang"
 description              : "Majoring in Electrical and Information Engineering."
-repository               : "jxtse/jxtse.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "Genk641/apen.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JinxiangTse"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
