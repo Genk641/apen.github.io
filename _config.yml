@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jinxiang Xie"
-description              : "Majoring in Information and Computing Science."
+title                    : "Pan Wang"
+description              : "Majoring in Electrical and Information Engineering."
 repository               : "jxtse/jxtse.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
+  name             : "Pan Wang"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Beijing Jiaotong University"
-  location         : "Beijing, China"
+  bio              : "Hainan University"
+  location         : "Haikou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
+  googlescholar    : 
+  email            : "apen@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  CSDN             : "ai888.blog.csdn.net"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,10 +38,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : "Genk641"
   google_plus      :
   keybase          :
-  instagram        : "richardtse_"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jinxiang-xie"
