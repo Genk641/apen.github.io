@@ -8,21 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+Hi! My name is Wang Pan (pronounced as "wah pahn"). I'm a third-year undergraduate student majoring in Electrical and Information Engineering at **Hainan University**. 
 
-Hi! My name is Jinxiang Xie (pronounced as "JIN-shee-ahng SHEE-eh"). I'm a fourth-year undergraduate student majoring in Information and Computing Science at **Beijing Jiaotong University**. I am currently a research intern at **Microsoft** working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/">Justin Ding</a>.
-Previously, I conducted research at **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a>.
 
-I have been offered admission to the graduate program at Nanjing University for Fall 2025, providing me with a valuable window to further immerse myself in research. **I am actively seeking research assistant opportunities in LLMs applications and natural language processing**.
-
-Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
 
 <div class="highlight-blocks">
   <div class="highlight-block">
